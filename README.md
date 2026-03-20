@@ -1,2 +1,3 @@
-# simple-knowledge-base-gecs
-A knowledge management system for modern development workflows
+# Simple Knowledge Base Gecs
+
+A knowledge management system for modern development workflows.
